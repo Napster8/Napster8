@@ -5,6 +5,8 @@
 
 - 📫 How to reach me [Twitter](https://twitter.com/raghutapas12/"@raghutapas12")
 
+- Email: raghutapas12@gmail.com
+
 <!--
 **Napster8/Napster8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
