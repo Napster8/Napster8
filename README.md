@@ -1,4 +1,5 @@
-## 👋 Hi, I’m Raghavendra Tapas (@Napster8), Mechanical Engineer, Data Analytics Enthusiast.
+# Hello Github!
+- 👋 Hi, I’m Raghavendra Tapas (@Napster8), Mechanical Engineer, Data Analytics Enthusiast.
 
 - 👀 I’m interested in Technology, currently learning Data Science and Machine Learning Models, looking to collaborate on Data Science Projects
 
