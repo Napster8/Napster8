@@ -1,10 +1,6 @@
-## 👋 Hi, I’m @Napster8 (Raghavendra Tapas), Mechanical Engineer, Data Analytics Enthusiast.
+## 👋 Hi, I’m Raghavendra Tapas (@Napster8), Mechanical Engineer, Data Analytics Enthusiast.
 
-- 👀 I’m interested in Technology!
-
-- 🌱 I’m currently learning Data Science and Machine Learning Models
-
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👀 I’m interested in Technology, currently learning Data Science and Machine Learning Models, looking to collaborate on Data Science Projects
 
 - 📫 How to reach me [Twitter](https://twitter.com/raghutapas12/"@raghutapas12")
 
