@@ -7,8 +7,9 @@
 
 - Email: raghutapas12@gmail.com
 
-## Navigation
+
+## Navigation :world_map:
 
 - Data Science Repository: [Link](https://github.com/Napster8/Data-Science)
-
+Repository starting from the barebones of python, pre-processing data, visualization projects, mathematical logics behind the Machine Learning Models, deploying machine learning learning models.
 
